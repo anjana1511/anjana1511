@@ -402,12 +402,12 @@ a, a:hover {
   text-shadow: 1px 1px 1px rgba(25, 25, 25, 0.5);
   letter-spacing: 1px;
 }
-.social-tabs a.facebook-tab {
+.social-tabs a.github-tab {
   background: #3b5998;
 }
 .social-tabs a.linkedin-tab {
   background: #0077b5;
 }
-.social-tabs a.dribble-tab {
+.social-tabs a.intagram-tab {
   background: #ea4c89;
 }
