@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Wordpress**
 
-- 👨‍💻 All of my projects are available at [anjana1511.github.io](anjana1511.github.io)
+- 👨‍💻 All of my projects are available at [https://anjana1511.github.io](https://anjana1511.github.io)
 
 - 💬 Ask me about **PHP,Laravel,MySql,CSS,HTML,Javascript**
 
