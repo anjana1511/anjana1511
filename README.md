@@ -53,14 +53,7 @@ I'm a passionate **PHP Developer** from India who loves to code and explore new 
 ### 🎯 Fun Facts:
 - I'm always open to collaborating and learning new things.
 - I have a passion for **open-source contributions** and helping others in the developer community.
-
----
-
-### Contribution Graph:
-
-![Anjana's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anjana1511&bg_color=ffffff&color=000000&line=4e73df&point=000000&area=true&hide_border=true)
-
-
+  
 ---
 
 ### 📈 GitHub Stats:
